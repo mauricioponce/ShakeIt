@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="countdown_running">#2ADA03</color>
+    <color name="countdown_not_running">#DA032E</color>
+    <color name="countdown_ready">#F4E136</color>
+</resources>
